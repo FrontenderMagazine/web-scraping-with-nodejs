@@ -263,13 +263,6 @@ JSON. Вот что нам надо сделать:
     	return b.count - a.count;
     });
 
-
-The result will be a sorted array representing exactly how often each word in
-it has been used on all of the websites from the first page of results of the
-Google search. Below is a sample set of results for the term “data mining.” (
-Coincidentally, I used this list to generate the word cloud at the top of this
-article.)
-
 Результатом будет отсортированный массив, показывающий, как часто каждое слово
 в нём используется на сайтах с первой страницы поисковой выдачи Google. Ниже — 
 простой список результатов для термина «data mining». (По некому совпадению
